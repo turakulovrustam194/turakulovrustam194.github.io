@@ -1,0 +1,54 @@
+body {
+  background-color: #f0f0f0;
+  font-family: Sans;
+  font-size: 15px;
+  background-image: url(../images/wallpaper.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  text-align: center;
+  text-transform: uppercase;
+}
+a {
+  color: green;
+
+
+
+}
+div.first {
+
+text-align: center;
+
+
+
+
+}
+h3 {
+color:red;
+font: italic small-capas normal 30px Arial;
+
+
+
+}
+h2 {
+ color: black;
+ text-decoration: underline;
+
+
+}
+div.first, div.second, div.third, div.fourth, div.fifth {
+  border: 3px solid purple;
+  margin: 10px auto;
+  border-radius: 20px;
+  width: 400px;
+  padding: 40px;
+  display: block;
+
+}
+
+img {
+border-radius: 50%;
+position: relative;
+
+
+
+}
