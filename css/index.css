@@ -16,15 +16,15 @@ a {
 }
 div.first {
 
-text-align: center;
+  text-align: center;
 
 
 
 
 }
 h3 {
-color:red;
-font: italic small-capas normal 30px Arial;
+  color:red;
+  font: italic small-capas normal 30px Arial;
 
 
 
@@ -46,9 +46,18 @@ div.first, div.second, div.third, div.fourth, div.fifth {
 }
 
 img {
-border-radius: 50%;
-position: relative;
+  border-radius: 50%;
+  position: relative;
 
-
-
+}
+table {
+  margin: 10px auto;
+  border: 3px solid purple;
+  width: 600px;
+  height: 250px;
+  border-collapse: collapse;
+}
+td {
+  border: 1px solid purple;
+  padding: 10px;
 }
